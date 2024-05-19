@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+html, body, #root {
+  background-color: grey;
+  height: 100%
+}
+
+p {
+  display: flex;
+  justify-content: center;
+}
